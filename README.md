@@ -1,5 +1,5 @@
-# font2image
-Useful code for convert font file(s) to glyph images
+# Font to Image
+Useful code for converting font files to glyph images.
 
 1. Config the `font2img.py`
 2. Just run it
